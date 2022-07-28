@@ -1,0 +1,9 @@
+intron : non coding region of DNA
+
+exons : coding region of DNA
+
+mRNA : messenger RNA, decrypting the parallel dna strand in the opposite direction (T -> U)
+
+promoter : region upstream of a gene on which mRNA settles before starting the transcription
+	     contains regulatory regions determining the expression of the gene
+
